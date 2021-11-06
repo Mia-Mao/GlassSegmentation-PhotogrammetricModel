@@ -12,11 +12,16 @@ please request access to the dataset for non-commercial use via email (maoz@whu.
 Link: https://pan.baidu.com/s/1RfuFxwxH6bAWv3_rmmKwVw  Extract code: zpdy
 
 ### Test
-Download the code and run main.py
-
+Download the code and run
+```
+python main.py
+```
 
 ### Evaluation
-Run Evaluation.py
+Run
+```
+python Evaluation.py
+```
 
 ### Abstract
 
