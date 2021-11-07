@@ -82,7 +82,7 @@ def main(AT_file, model_list, model_path, segments_path, pkl_save_folder, obj_sa
 if __name__ == "__main__":
 	
 	model_path = '3D Models/demo/'  # 3D model folder
-	model_list = ['3D-Model-demo.obj'] # 3D model file name
+	model_list = ['demo.obj'] # 3D model file name
 	AT_file = '3D Models/demo/AT file/AT-demo.xml' # AT_file of 3D model
 	segments_path = 'obliqueimage_detection_result/' # path for glass detection results in oblique image.
 
