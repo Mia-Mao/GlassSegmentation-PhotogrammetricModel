@@ -154,8 +154,8 @@ def evaluate(gt_segments, pred_segments, threshold = 0.5):
 
 if __name__ == "__main__":
 
-	gt_dirpath = './evaluation/truth/'
-	pred_dirpath = './evaluation/predict/'
+	gt_dirpath = './evaluation/label/'
+	pred_dirpath = './3D Models/demo/demo/'
 
 	gt_segments = read_3D_segments(gt_dirpath)
 	pred_segments = read_3D_segments(pred_dirpath)
