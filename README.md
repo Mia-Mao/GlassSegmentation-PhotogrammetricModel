@@ -39,7 +39,9 @@ Examples of Photogrammetry-based 3D urban models.
 Please request access to the dataset for non-commercial use via email (maoz@whu.edu.cn). Please use your official university/company email address. Thank you!
 
 (2) Access to the dataset for non-commercial use via BaiduNetdisk：
-Link: https://pan.baidu.com/s/1RfuFxwxH6bAWv3_rmmKwVw  Extract code: ****
+
+Link：https://pan.baidu.com/s/1pn1E92H0rZ6SsyUR3MWKvA 
+Extract code：**** 
 
 
 ### Citation
