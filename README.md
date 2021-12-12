@@ -40,8 +40,6 @@ Please request access to the dataset for non-commercial use via email (maoz@whu.
 
 (2) Access to the dataset for non-commercial use via BaiduNetdisk：
 
-Link：https://pan.baidu.com/s/1pn1E92H0rZ6SsyUR3MWKvA 
-Extract code：**** 
 
 
 ### Citation
