@@ -2,7 +2,16 @@
 
 ### Abstract
 
-The repository includes the codes used in the paper "Glass façade segmentation and repair for aerial photogrammetric 3D building models with multiple constraints". 
+The repository includes the codes used in the paper "Glass façade segmentation and repair for aerial photogrammetric 3D building models with multiple constraints".
+The main steps contain the followings.
+
+(1) Select the visible views.
+
+(2) Obtain the correspondences by projection.
+
+(3) Validate the correspondences.
+
+(4) Apply the multi-view oblique images by voting.
 
 
 ### Test
